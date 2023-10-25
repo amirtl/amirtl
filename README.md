@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Amir Salari, studying computer science at University of Tehran.
-- 👀 I’m interested in machine learning, statistics, database, computer network.
+- 👋 Hi, I’m Amir Salari, a Machine learning engineer at Snapp!
+- 👀 I’m interested in machine learning, statistics.
 - 📫 mail: salariamir7@gmail.com
 
 <!---
